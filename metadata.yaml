@@ -1,0 +1,34 @@
+_repo: Sylvia-s-Lovers---Volume-3_4536
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaskell, Elizabeth Cleghorn
+    aliases:
+    - Gaskell, Elizabeth Cleghorn Stevenson
+    - Mills, Cotton Mather
+    - Stevenson, Elizabeth
+    - Gaskell, E. C. (Elizabeth Cleghorn)
+    - Gaskell, Mrs.
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '220'
+    url: http://www.gutenberg.org/2009/agents/220
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Gaskell
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4536'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'Yorkshire (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: Sylvia's Lovers — Volume 3
+url: http://www.gutenberg.org/ebooks/4536
