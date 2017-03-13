@@ -1,5 +1,8 @@
 _repo: Sylvia-s-Lovers---Volume-3_4536
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gaskell, Elizabeth Cleghorn
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/220
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Gaskell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4536#Sylvia-s-Lovers---Volume-3
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
